@@ -118,10 +118,11 @@ https://sir-ai-hasan.netlify.app/
 
 # 📧 Contact
 
-Email: [hasanmpi96@gmail.com](mailto:hasanmpi96@gmail.com)
+Email: [hasanmpi96@gmail.com]
+Phone: [+8801919252945]
 
 ---
 
 # ⭐ Motto
 
-**Education for Everyone**
+**Education for All**
