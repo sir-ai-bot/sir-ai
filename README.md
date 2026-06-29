@@ -16,6 +16,11 @@ In the future, Sir AI aims to support **Medical, Engineering, University Admissi
 
 ---
 
+## 📸 Screenshot
+
+![Sir AI Homepage](sir-ai.png)
+
+
 # 🎯 Mission
 
 To make quality education in Bangladesh easy, accessible, and AI-powered for every student.
